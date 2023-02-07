@@ -1,0 +1,21 @@
+# api_url : the url of the API
+api_url: ""
+# api_scope : the default scope used by the API
+api_scope: ""
+# azure_subscription id : The azure subscription id used to contain the platform
+azure_subscription: ""
+# adx_cluster_name: The name of the Azure Data Explorer Cluster
+adx_cluster_name: ""
+# resource_group_name: The name fo the resource group used on the platform
+resource_group_name: ""
+# ACR source registry name source_registry.azurecr.io
+csm_acr_registry_name: ""
+# ACR destination registry name dest_registry.azurecr.io
+acr_registry_name: ""
+# resources_location: azure resource location ex: westeurope
+resources_location: ""
+# Storage account name
+storage_account_name: ""
+# PowerBI api scope
+powerbi_api_scope: "https://analysis.windows.net/powerbi/api/.default"
+
